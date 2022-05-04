@@ -5,8 +5,8 @@
 add these 2 environment variables:
 
 ```bash
-FLASK_APP=app.py
-FLASK_ENVIREMENT=development
+export FLASK_APP=app.py
+export FLASK_Env=development
 ```
 
 then start the development server:
